@@ -1,0 +1,2 @@
+Now this is second file created just for experimentation with git.
+Till now honestly it's quite fun.
