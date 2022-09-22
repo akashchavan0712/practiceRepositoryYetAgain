@@ -1,0 +1,5 @@
+Now this is four file created just for experimentation with git.
+Till now honestly it's quite fun.
+
+
+Looks like I am gonna change it a bit.
